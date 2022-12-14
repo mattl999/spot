@@ -38,6 +38,9 @@ Post Detail Page
 
 ### [TRY APP HERE](http://hellofren.herokuapp.com/)
 
+## Base Repo
+https://github.com/mo-shawa/spot
+
 ### Using the App
 ---
 - The app is very simple and strightforward to use!
