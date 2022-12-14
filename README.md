@@ -7,15 +7,12 @@ helloFren is a social media platform that is designed to put your dog(s) in the 
 After signing up as a user, you can add your dogs to your profile, and then create cute an cuddly posts on behalf of your furry friends!
 When browsing through your feed, you will be greeted with posts from other dogs, and hopefully get your daily dose of cuteness.
 
-The application is in an early stage of development, and there are many features that we are planning to add in the future.
+The application is in an early stage of development, and there are many features that we are hoping to add in the future.
 
 ## :camera: Screenshots
 
 ![Alt text](https://i.gyazo.com/9c73436ed28c8d281c5651ae2074d0b9.png)
-Main feed of app
----
-![Alt text](https://i.gyazo.com/e1dfc81705c4fba65033487d5a916d9a.png)
-User Profile Page
+Main Feed Page
 ---
 ![Alt text](https://i.gyazo.com/b0dca7a3d8d6d853bad0ed7f1ef49d9b.png)
 Dog Profile Page
